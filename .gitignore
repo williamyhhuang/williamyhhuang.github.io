@@ -5,6 +5,8 @@
 
 # Custom
 appsettings.json
+_config.yml
+public/
 
 # User-specific files
 *.rsuser
